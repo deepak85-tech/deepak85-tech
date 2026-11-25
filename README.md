@@ -16,7 +16,7 @@ I am a engineering student of branch information science
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-00599C?style=flat)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat)
+
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-009688?style=flat)
